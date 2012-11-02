@@ -1,5 +1,0 @@
-inherit kde4
-
-DESCRIPTION="KDE chess game"
-HOMEPAGE="http://noughmad.com/knights/"
-SRC_URI="http://dl.dropbox.com/u/2888238/Knights/${P}.tar.bz2"

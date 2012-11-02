@@ -1,6 +1,0 @@
-category: Games KDE
-requires: gnuchess libgcc1 libkdecore5 libkdegames5 libplasma3 libQtCore4 libQtDBus4 libQtGui4 libQtNetwork4 libstdc++6
-sdesc: "KDE chess game"
-ldesc: "Knights is the chess interface for KDE SC 4. It features play 
-against opponents on the Free Internet Chess Server, a friend on the 
-same computer, or a computer chess engine."
