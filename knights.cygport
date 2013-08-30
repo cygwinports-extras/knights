@@ -1,14 +1,14 @@
 inherit kde4
 
 NAME="knights"
-VERSION=2.4.2
+VERSION=2.5.0
 RELEASE=1
-CATEGORY="Games KDE"
+CATEGORY="Games"
 SUMMARY="KDE chess game"
 DESCRIPTION="Knights is the chess interface for KDE SC 4. It features play
 against opponents on the Free Internet Chess Server, a friend on the same
 computer, or a computer chess engine."
 HOMEPAGE="http://noughmad.com/knights/"
-SRC_URI="http://dl.dropbox.com/u/2888238/Knights/${P}.tar.bz2"
+SRC_URI="http://dl.dropbox.com/u/2888238/Knights/knights-${VERSION}.tar.bz2"
 
 REQUIRES="gnuchess"
